@@ -1,0 +1,6 @@
+line-length = 120
+
+[lint]
+select = ["E4", "E7", "E9", "F", "UP", "DTZ", "BLE", "S"]
+# S310: _http_get only ever receives the fixed https://github.com endpoints.
+ignore = ["S310"]
