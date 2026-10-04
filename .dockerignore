@@ -1,0 +1,9 @@
+.git/
+.github/
+data/
+tests/
+__pycache__/
+*.pyc
+README.md
+ruff.toml
+.env
