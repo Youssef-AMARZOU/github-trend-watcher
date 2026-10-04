@@ -1,8 +1,17 @@
 # GitHub Trend Watcher
 
+[![CI](https://github.com/Youssef-AMARZOU/github-trend-watcher/actions/workflows/ci.yml/badge.svg)](https://github.com/Youssef-AMARZOU/github-trend-watcher/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/release/Youssef-AMARZOU/github-trend-watcher?style=flat-square&logo=github)](https://github.com/Youssef-AMARZOU/github-trend-watcher/releases)
+[![Stars](https://img.shields.io/github/stars/Youssef-AMARZOU/github-trend-watcher?style=flat-square&logo=github)](https://github.com/Youssef-AMARZOU/github-trend-watcher/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Youssef-AMARZOU/github-trend-watcher?style=flat-square&logo=github)](https://github.com/Youssef-AMARZOU/github-trend-watcher/commits/main)
+
 Free, self-hosted alternative to paid trend-signal APIs (TrendShift Signal, etc.):
 daily GitHub trending snapshots, a rising-repos feed, and star-spike detection —
 built only on free/public sources. Single file, Python 3.12, **stdlib only**.
+
+**This repo's star trend:**
+
+[![Star history chart](https://api.star-history.com/svg?repos=Youssef-AMARZOU/github-trend-watcher&type=Date)](https://star-history.com/#Youssef-AMARZOU/github-trend-watcher&Date)
 
 ## Free sources (no paid API)
 
